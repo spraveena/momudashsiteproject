@@ -8,7 +8,7 @@ professionals to track remotely (tele-rehab)
 
 ## Requirements
 
-Runs on Python 3.8 and above
+Runs on Python 3.8 and above  
 Runs on Unix/Linux
 
 
