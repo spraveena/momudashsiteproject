@@ -5,5 +5,14 @@ This tool aims to visualize movement to music during rehabilitation exercises ca
 The aim of the tool system is to provide a quantitative view of progress made by patients during a motor rehabilitation regime for healthcare
 professionals to track remotely (tele-rehab)
 
+## Visualisations
+
+
+## Requirements
+
+Runs on Python 3.8 and above
+Runs on Unix/Linux
+
+
 
 
